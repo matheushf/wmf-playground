@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkapplication_a=self.webpackChunkapplication_a||[]).push([[386],{386:(e,n,t)=>{t.r(n);var l=t(403),a=t.n(l),r=t(153);function c(){return a().createElement("h1",null,"Hello from Application B!")}t.n(r)().render(a().createElement(c,null),document.getElementById("root"))}}]);
+//# sourceMappingURL=386.js.map
